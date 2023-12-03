@@ -1,7 +1,0 @@
-{
-    "functions": {
-      "api/**/*.cs": {
-        "runtime": "dotnet3.1"
-      }
-    }
-  }
