@@ -7154,11 +7154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\dev\\Shop_git\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\dev\\Shop\\Shop.csproj",
+      "projectPath": "C:\\dev\\Shop_git\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\thiago.dsilva\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Shop\\obj\\",
+      "outputPath": "C:\\dev\\Shop_git\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
